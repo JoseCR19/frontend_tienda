@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  /* colors */
+  --color-primary: #ff5252;
+  --color-pink: #f5efef;
+
+  --breakpoint-2xl: 100rem;
+  --container-2xl: 96rem;
+}
+
+html {
+  overflow-y: scroll;
+} /* always show vertical scrollbar */
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.link:hover {
+  color: var(--color-primary);
+}
