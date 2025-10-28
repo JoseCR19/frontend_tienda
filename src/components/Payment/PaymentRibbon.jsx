@@ -3,10 +3,10 @@ import React from "react";
 
 // 1. LOGOS FILTRADOS (Tus 4 logos)
 const DEFAULT_LOGOS = [
-  "public/Logos_pagos/Visa.png",
-  "public/Logos_pagos/MasterCard.png",
-  "public/Logos_pagos/Yape.png",
-  "public/Logos_pagos/Pago_en_efectivo.png",
+  "Logos_pagos/Visa.png",
+  "Logos_pagos/MasterCard.png",
+  "Logos_pagos/Yape.png",
+  "Logos_pagos/Pago_en_efectivo.png",
 ];
 
 // 2. CREAMOS UN SET MÁS GRANDE (16 logos)

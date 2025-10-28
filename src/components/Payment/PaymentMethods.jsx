@@ -4,13 +4,13 @@ const methods = [
   {
     id: "card",
     label: "Tarjeta de debito/credito",
-    logo: "public/Logos_pagos/Visa.png",
+    logo: "Logos_pagos/Visa.png",
   },
-  { id: "yape", label: "Yape", logo: "public/Logos_pagos/Yape.png" },
+  { id: "yape", label: "Yape", logo: "Logos_pagos/Yape.png" },
   {
     id: "pagoefectivo",
     label: "PagoEfectivo",
-    logo: "public/Logos_pagos/Pago_en_efectivo.png",
+    logo: "Logos_pagos/Pago_en_efectivo.png",
   },
 ];
 
